@@ -1,4 +1,4 @@
-// //Zadanie1
+//Zadanie1
 let randomNumber = 7;
 let randomText = "Random text";
 let numberWithText = 2 + "dwa";
@@ -12,7 +12,7 @@ console.log(logic);
 console.log(special);
 
 
-// //Zadanie2
+//Zadanie2
 
 let firstNumber = 2;
 let secNumber = 4;
